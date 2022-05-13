@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ab51d1456b4e9024f943f2d0a371eb4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kidModelTransform: {instanceID: 0}
+  - stairFinishTransform: {instanceID: 0}
+  - slider: {instanceID: 0}
+  - diamondText: {instanceID: 0}
+  - failText: {instanceID: 0}
+  - levelCompletedText: {instanceID: 0}
+  - retryButtonRectTransform: {instanceID: 0}
+  - nextButtonRectTransform: {instanceID: 0}
+  - inGameStartUI: {instanceID: 0}
+  - failPanel: {instanceID: 0}
+  - levelCompletedPanel: {instanceID: 0}
+  - animatedCoinPrefab: {fileID: 3511619925028367487, guid: 88696cc741af74d49b195806cbaec76c, type: 3}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

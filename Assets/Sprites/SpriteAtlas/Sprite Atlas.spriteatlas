@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4ab04f66133da7844b03f3be702188c5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: edb7472181d6dae4a9de257bb28d55b1, type: 3}
+  - {fileID: 21300000, guid: e3138a12a89af3c4e836b1b9b6d78ad2, type: 3}
+  - {fileID: 21300000, guid: 829212c20ba2ea642ac6037415712f87, type: 3}
+  - {fileID: 21300000, guid: 3d8496e2bea67ff4dbf156fbb87ae559, type: 3}
+  - {fileID: 21300000, guid: ba67839386d2ce749bc1e5df336ba2e0, type: 3}
+  - {fileID: 21300000, guid: 5af9190917698af4db43c30e0a01617e, type: 3}
+  - {fileID: 21300000, guid: 58c4e7a9790839541896ffe129f33770, type: 3}
+  - {fileID: 21300000, guid: cb114c1a615a3c8499d166b69a8a795f, type: 3}
+  - {fileID: 21300000, guid: de84200f09eb9584bb767c07afd135c2, type: 3}
+  - {fileID: 21300000, guid: c22efc3f2930429409681da68ddc3019, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Finish
+  - ProgressBar
+  - BlueBackground
+  - Diamond
+  - Hand
+  - ArrowLeft
+  - ArrowRight
+  - ArrowSimpleRight
+  - Outline Bar Progress
+  - ButtonBlue
+  m_RenderDataMap: {}
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0
